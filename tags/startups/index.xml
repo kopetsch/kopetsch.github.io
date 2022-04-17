@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Startups on </title>
+    <link>https://ingenieurgruen.de/tags/startups/</link>
+    <description>Recent content in Startups on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ingenieurgruen.de/tags/startups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wir pfeifen auf Skalierbarkeit!</title>
+      <link>https://ingenieurgruen.de/post/skalierbarkeit/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ingenieurgruen.de/post/skalierbarkeit/</guid>
+      <description>Geschäftsmodelle, die nur durch die eigene marktbeherrschende Größe funktionieren, zu Lasten der Arbeitsbedingungen und der Qualität der Angebote, dürfen sich nicht durchsetzen, weil dann echter Wettbewerb nicht mehr existiert.
+Der typische Werdegang vieler hoffnungsvoller Startups, kann wie folgt beschrieben werden:
+probieren ⇒ investieren ⇒ skalieren ⇒ verlieren
+Es würde helfen, wenn solche Gründungen bereits im frühen Stadium scheitern und nicht erst dann, wenn viel Geld und sonstige Ressourcen vergeudet worden sind.</description>
+    </item>
+    
+    <item>
+      <title>Innovationspolitik darf nicht immer nur um Startups kreisen</title>
+      <link>https://ingenieurgruen.de/post/startups/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ingenieurgruen.de/post/startups/</guid>
+      <description>Ein Unternehmen wird von Hochschulabsolventen gegründet, tritt mit Ergebnissen aus der Forschung erfolgreich in den Markt ein, um sich dort zu behaupten.
+ Das ist ein verbreiteter Stereotyp, nur ein möglicher Weg, der auch mehr gefördert werden muss. Eine Vorfestlegung nur auf dieses Szenario, schränkt jedoch die Wirksamkeit von Innovationspolitik erheblich ein.
+Die Konzentration in der politischen Debatte beim Thema Innovation ausschließlich auf Startups und Disruptionen, vernachlässigt die Unternehmen, welche deutschlandweit immerhin knapp 58 Prozent aller sozialversicherungspflichtigen Arbeitnehmer beschäftigen.</description>
+    </item>
+    
+    <item>
+      <title>Bemerkungen über die Start-Up Ökonomie</title>
+      <link>https://ingenieurgruen.de/post/startup-oeko/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ingenieurgruen.de/post/startup-oeko/</guid>
+      <description>Die Anzahl der Unternehmensgründungen ist insgesamt rückläufig. Es scheint, als hätte der Hype um die Gründung innovativer Unternehmen seinen Höhepunkt bereits überschritten.
+Manche großen Konzerne geben sich modern und nutzen die spezielle Kultur und Szene der Start-Ups zu ihrem Vorteil aus. In ihren Hubs, Inkubatoren und Acceleratoren arbeiten junge Menschen zu Bedingungen, die innerhalb ihres Unternehmen niemals gestattet würden. Arbeitnehmerrechte werden hier umgangen, zum Teil sogar unter dem Beifall einiger Politiker, die sich mit vermeintlichen Erfolgen dieser „zeitgemäßen“ Vorgehensweise schmücken möchten.</description>
+    </item>
+    
+  </channel>
+</rss>

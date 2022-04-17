@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscs on </title>
+    <link>https://ingenieurgruen.de/misc/</link>
+    <description>Recent content in Miscs on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 12 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://ingenieurgruen.de/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://ingenieurgruen.de/misc/template/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ingenieurgruen.de/misc/template/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ingenieurgruen.de/misc/impressum/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ingenieurgruen.de/misc/impressum/</guid>
+      <description>Impressum Angaben gemäß § 5 TMG und verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+Roland Kopetsch c/o KoMotion Strategie und Innovation e.K. Unter den Linden 26 10117 Berlin
+ing-gruen@sector.de
+Haftungsausschluss: Haftung für Inhalte Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.</description>
+    </item>
+    
+  </channel>
+</rss>
